@@ -19,10 +19,10 @@
     "prepublish": "./scripts/prepublish.sh",
     "release": "./scripts/release.sh",
     "start": "./scripts/start.sh",
-    "test:compile": "./scripts/test:compile.sh",
-    "test:integration": "./scripts/test:integration.sh",
-    "test:style": "./scripts/test:style.sh",
-    "test:unit": "./scripts/test:unit.sh",
+    "test:compile": "./scripts/test_compile.sh",
+    "test:integration": "./scripts/test_integration.sh",
+    "test:style": "./scripts/test_style.sh",
+    "test:unit": "./scripts/test_unit.sh",
     "test": "./scripts/test.sh"
   },
   "bin": {
